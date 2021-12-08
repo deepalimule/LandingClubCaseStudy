@@ -18,5 +18,5 @@ Understanding data set-->Data cleaning-->Data Filteration-->EDA-->Visualize data
 
 Group Members-
 
-Deepali Mule
-Neeraj Shah
+-Deepali Mule
+-Neeraj Shah
